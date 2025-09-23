@@ -1,7 +1,7 @@
 public class ArrayHomework {
     public static void main(String[] args) {
         int[] numbers = {10, 100, 55, 66, 22, 21, 7, 7, 12, 45, 9};
-        int n = 6;
+        int n = 7;
         int quantity = 0;
         for (int tiv : numbers) {
             if (tiv == n) {
